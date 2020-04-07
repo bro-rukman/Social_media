@@ -1,0 +1,12 @@
+#left side 
+ - profile
+ - Community
+ - Video
+ - Massage
+#center side
+ - Story
+ - Profile
+ - Feed scrolling
+#right side
+ - Search
+ - Highlight news (many fitures)
