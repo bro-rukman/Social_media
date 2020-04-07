@@ -8,5 +8,4 @@
  - Profile
  - Feed scrolling
 #right side
- - Search
  - Highlight news (many fitures)
