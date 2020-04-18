@@ -10,3 +10,4 @@
 #right side
  - Search
  - Highlight news (many fitures)
+ -feature highlight
